@@ -10,19 +10,6 @@ This application is composed of 4 services.
  
 ## Installation :
  
-#### Step 1 : download this project
+#### Step 1 : download this project  
  
-#### Step 2 : package the application
-Go to root directory of each module  
-For each module, run the maven command : **mvn clean package**
- 
-#### Step 3 : build the docker images
-In the root directory of each module, run the docker command : **docker build -t nom_du_conteneur .**  
-
-## Run :
-#### Step 4 : run the application stack
-Go to the docker-compose.yml directory and run the docker command : **docker-compose up -d**  
-To use the application, start your browser and go to http://localhost:8085
-
-#### Step 5 : stop the application
-To stop the application, run the docker command : **docker-compose stop**
+The file is currently being modified.
