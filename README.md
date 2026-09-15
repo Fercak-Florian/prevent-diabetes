@@ -4,7 +4,7 @@ This application is composed of 4 services.
 
 ## Prerequisite :
 
- - Java 11
+ - Java 17
  - Maven 3.8.6
  - Docker 20.10.23
  
